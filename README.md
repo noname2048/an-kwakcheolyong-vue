@@ -1,6 +1,7 @@
 # an-kwakcheolyong-vue
 
 - "지그재그"블로그의 "wormwolrm"님이 작성한 "[『곽철용 짤 생성기, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)"를 클론코딩
+- ![result.png](result.png)
 
 ## 배운점
 
