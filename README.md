@@ -3,6 +3,10 @@
 - "지그재그"블로그의 "wormwolrm"님이 작성한 "[『곽철용 짤 생성기, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)"를 클론코딩
 - ![result.png](result.png)
 
+## 실행방법
+* vue cli 설치 `yarn gloabl add @vue/cli` [공홈](https://cli.vuejs.org/guide/installation.html)
+* `cd kwakcheolyong` `yarn serve`
+
 ## 배운점
 
 - "이사람 내공이 대단하다." 블로그를 읽으면서 든 생각
